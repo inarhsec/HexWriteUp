@@ -54,7 +54,7 @@ Today as virus are commonly used and refer to as MALWARE.
 >
 > That the same way Trojan Horse code works, Trojan Horse is a malicious pieces of code that looks harmless but it not , which waited for the right time OR the right order to execute & harm the system after that it’s come back to the original place and repeat the process.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### KeyLogger :&#x20;
 

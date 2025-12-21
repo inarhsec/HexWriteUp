@@ -4,20 +4,6 @@ description: >-
   enumeration and recon.
 cover: ../../.gitbook/assets/RED-TEAM_RECON.jpeg
 coverY: 18
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # RECON AND FOOTPRINTING (SURVEY CORPS)

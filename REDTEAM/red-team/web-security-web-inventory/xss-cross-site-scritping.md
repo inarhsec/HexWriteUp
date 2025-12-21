@@ -240,8 +240,7 @@ enddate
 > * Break the html using the closing tags or img tags and insert JavaScript tag and JavaScript function.
 > * get out the html tag using `<img> or <svg>` using the onerror javascript fucntion which results an load an error on browser which trigger the `onerror` and the parameter after `onerror` function `<img src='x' onerror=print(1)>`.
 > * If the iframe to get out of HTML Tags `<iframe src="https://website/#" onload="this.src+='<img src=x onerror=print()>'"></iframe>.`&#x20;
-> * `"></select><img%20src=1%20onerror=alert(1)> , "-alert(1)}//, <><img src=1 onerror=alert(1)>`\
->
+> * `"></select><img%20src=1%20onerror=alert(1)> , "-alert(1)}//, <><img src=1 onerror=alert(1)>`<br>
 
 ### Defense against DOM-Based XSS
 

@@ -39,6 +39,7 @@
     * [OPEN REDIRECT AND XML ENTERY](red-team/web-security-web-inventory/open-redirect-and-xml-entery.md)
     * [Application Programming Language Testing](red-team/web-security-web-inventory/application-programming-language-testing.md)
     * [Server Side Request Forge](red-team/web-security-web-inventory/server-side-request-forge.md)
+  * [Andriod Security](red-team/andriod-security.md)
   * [TOOL DUMP](red-team/tool-dump.md)
 * [CTF](ctf.md)
 * [HTB](htb.md)

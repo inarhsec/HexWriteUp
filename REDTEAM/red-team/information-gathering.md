@@ -4,20 +4,6 @@ description: >-
   is spent the more goods results are,
 cover: ../.gitbook/assets/REDTEAM_Information Gathering_LOGO
 coverY: 61.2128279883382
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # INFORMATION GATHERING

