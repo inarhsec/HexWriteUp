@@ -1,6 +1,15 @@
 # Andriod Basic
 
+#### Introduction
 
+An Andriod is an open source linux based operation system/software, it is na arrary of devices which can run on phone, watch , IOT etc.
+
+* Srart with linux kernal.
+* Hardware abstration layer containing drivces to connected the hardware.
+* Libararies, Native libarries written in C++.
+* Andriod runtime enviorment with EEN specific VM like Java runtime enviroment.
+* Andriod framework with different APIs written in JAVA.
+* App build in APP platform like camera,Alarm Etc.
 
 
 
@@ -19,7 +28,7 @@ The andiod architecture are
 
 
 
-
+Linux kernel also called ring zero because is the heard of OS. the kernel handles basic system service like memory and so device connecting to the hardware and for the security part linux kernel so the any security assessment when get the and check the kernel in the exploit DB for expoits
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
