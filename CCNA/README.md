@@ -2,23 +2,9 @@
 description: The Cisco Certified Network Associate (CCNA) 200-301
 cover: .gitbook/assets/CCNA Cover.jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# CCNA
+# CCNA Initiated
 
 ## whoami
 
