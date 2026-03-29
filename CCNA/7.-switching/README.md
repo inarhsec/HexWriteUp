@@ -2,7 +2,7 @@
 description: >-
   Switching is process to forward packets coming in from one port to a port
   leading towards the destination.
-cover: .gitbook/assets/SWITCHING_LOGO.png
+cover: ../.gitbook/assets/SWITCHING_LOGO.png
 coverY: 0
 ---
 
@@ -515,7 +515,7 @@ Switch(config)# spanning-tree vlan <vlan-id> forward-time <time>
 
 > This is the Basic Introduction/setpup of Any Switch mostly Cisco Lower model Switch to Nexus Migration.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Phase 1 — Physical Inventory
 
@@ -781,13 +781,13 @@ Before cutover day, prepare:
 
 ## <mark style="color:purple;">**Cisco Nexus Migration Report**</mark>
 
-{% file src=".gitbook/assets/Nexus_vPC_Config_v2.pdf" %}
+{% file src="../.gitbook/assets/Nexus_vPC_Config_v2.pdf" %}
 
-{% file src=".gitbook/assets/Netmagic_CoreSwitch_Migration_Assessment Updated.pdf" %}
+{% file src="../.gitbook/assets/Netmagic_CoreSwitch_Migration_Assessment Updated.pdf" %}
 
-{% file src=".gitbook/assets/Netmagic_CoreSwitch_Migration_Assessment Updated.docx" %}
+{% file src="../.gitbook/assets/Netmagic_CoreSwitch_Migration_Assessment Updated.docx" %}
 
-{% file src=".gitbook/assets/Nexus_vPC_Config_v2.docx" %}
+{% file src="../.gitbook/assets/Nexus_vPC_Config_v2.docx" %}
 
 
 

@@ -67,11 +67,11 @@ Wireless communication uses specific parts of the electromagnetic spectrum for d
 
 
 
-    <figure><img src=".gitbook/assets/CCNA_WIRELESS_WAVELENGTH" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/CCNA_WIRELESS_WAVELENGTH" alt=""><figcaption></figcaption></figure>
 
     * **Amplitude:** The height of the wave (crest or trough).
 
-    <figure><img src=".gitbook/assets/CCNA_WIRELESS_AMPLITUDE.png" alt=""><figcaption><p>AMPLITUDE</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/CCNA_WIRELESS_AMPLITUDE.png" alt=""><figcaption><p>AMPLITUDE</p></figcaption></figure>
 
     * **Frequency:** The number of wave cycles per second (measured in Hz).
       * 1 kHz = 1,000 cycles/second
