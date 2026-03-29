@@ -19,3 +19,6 @@
 * [12. CLOUD](12.-cloud.md)
 * [13. Network Security Application](13.-network-security-application.md)
 * [RackAssessments](rackassessments.md)
+* [Migration Reports](migration-reports/README.md)
+  * [Nexus\_vPC\_Config\_v2](migration-reports/nexus_vpc_config_v2.md)
+  * [Netmagic\_CoreSwitch\_Migration\_Assessment Updated](migration-reports/netmagic_coreswitch_migration_assessment-updated.md)

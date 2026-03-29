@@ -787,7 +787,7 @@ Before cutover day, prepare:
 
 {% file src="../.gitbook/assets/Netmagic_CoreSwitch_Migration_Assessment Updated.docx" %}
 
-{% file src="../.gitbook/assets/Nexus_vPC_Config_v2.docx" %}
+{% file src="../.gitbook/assets/Nexus_vPC_Config_v2 (1).docx" %}
 
 
 
