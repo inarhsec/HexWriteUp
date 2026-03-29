@@ -38,6 +38,7 @@
     * [OPEN REDIRECT AND XML ENTERY](red-team/web-security-web-inventory/open-redirect-and-xml-entery.md)
     * [Application Programming Language Testing](red-team/web-security-web-inventory/application-programming-language-testing.md)
     * [Server Side Request Forge](red-team/web-security-web-inventory/server-side-request-forge.md)
+    * [11.A.Web Based Application With PortSwigger Validation](red-team/web-security-web-inventory/11.a.web-based-application-with-portswigger-validation.md)
   * [Exploitation](red-team/exploitation/README.md)
     * [RED TEAM FIELD MANUAL](red-team/exploitation/red-team-field-manual.md)
   * [Andriod Security](red-team/andriod-security/README.md)
