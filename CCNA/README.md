@@ -32,3 +32,8 @@ coverY: 0
 [https://mega.nz/folder/NL1RkZDA](https://mega.nz/folder/NL1RkZDA)
 {% endhint %}
 
+### Documents
+
+{% file src=".gitbook/assets/HR CCNA 200-301 v0.1.pdf" %}
+
+{% file src=".gitbook/assets/HR CCNA 200-301 v0.1.docx" %}
