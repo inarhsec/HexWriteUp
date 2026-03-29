@@ -46,3 +46,4 @@
 * [HTB](htb.md)
 * [OSINT](osint/README.md)
   * [TOOLS](osint/tools.md)
+* [MCP Server](mcp-server.md)
