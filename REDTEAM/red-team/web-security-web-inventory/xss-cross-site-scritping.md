@@ -86,7 +86,7 @@ enddate
 
 > Allows to execute the malicious code into a web application input parameters (Search bar) and the web application execute the malicious code which response the activity on browser.
 
-<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_ReflectedXSS.drawio.png" alt=""><figcaption><p>Reflected XSS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/REDTEAM_WEB_ReflectedXSS.drawio.png" alt=""><figcaption><p>Reflected XSS</p></figcaption></figure>
 
 #### What is Reflected XSS
 
@@ -98,7 +98,7 @@ enddate
 > * Assuming the web application is vulnerably then the attacker tricked the web application or add the malicious code.
 >   * Like: [https://amazon.in/shopping/laptop=?hp\<scirpt>https://evil.com/badcode.js\</scirpt](https://amazon.in/shopping/laptop=?hp%3cscirpt%3ehttps://evil.com/badcode.js%3c/scirpt)>
 
-<img src="../../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
+<img src="../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
 
 #### Example of Reflected XSS
 
@@ -167,7 +167,7 @@ enddate
 > * The client browser sends malicious code to the server which execute in the server and response in the browser.
 > * A Vulnerably web application where the feature of comments and post is there and the attacker use that feature and post malicious code and the server stored it, when the user click the attacker post that will compromise the user system.
 
-<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_StoredXSS.drawio.png" alt=""><figcaption><p>Stored XSS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/REDTEAM_WEB_StoredXSS.drawio.png" alt=""><figcaption><p>Stored XSS</p></figcaption></figure>
 
 #### What is Stored XSS
 
@@ -222,7 +222,7 @@ enddate
 >
 > * A web application allows to change theme where the attacker input the malicious code which send to client and the client browser load which result in compromised the system or steal the cookie.
 
-<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_DombasedXSS.drawio.png" alt=""><figcaption><p>DOM Based XSS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/REDTEAM_WEB_DombasedXSS.drawio.png" alt=""><figcaption><p>DOM Based XSS</p></figcaption></figure>
 
 #### What is DOM-Based
 
@@ -270,6 +270,6 @@ Mutation XSS
 
 ## MindMap
 
-{% file src="../../../.gitbook/assets/XSS Cross Site Scripting.pdf" %}
+{% file src="../../.gitbook/assets/XSS Cross Site Scripting.pdf" %}
 XSS Cross Site Scripting MindMap
 {% endfile %}
