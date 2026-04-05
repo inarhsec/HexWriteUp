@@ -17,7 +17,7 @@ description: >-
 >
 > an attacker send malicious request to authenticated user and use user browser function of cookies to steal cookie to compromise the system.
 
-<figure><img src="../../.gitbook/assets/REDTEAM_WEB_CSRF.drawio.png" alt=""><figcaption><p>CSRF</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_CSRF.drawio.png" alt=""><figcaption><p>CSRF</p></figcaption></figure>
 
 ### Conditions
 
@@ -94,6 +94,6 @@ CSRF token is valid still the user is active in the web application.
 
 ## MindMap
 
-{% file src="../../.gitbook/assets/CSRF (Cross Site Request Forgery).pdf" %}
+{% file src="../../../.gitbook/assets/CSRF (Cross Site Request Forgery).pdf" %}
 CSRF Cross Site Request Forgery MindMap
 {% endfile %}
