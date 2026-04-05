@@ -55,19 +55,19 @@ coverY: 0
 
 > An Attacker gain access to another user with the same level of privileged/permissions
 
-<figure><img src="../../.gitbook/assets/REDTEAM_ACCESSCONTROL_Horizontal_ESC.png" alt=""><figcaption><p><strong>Horizontal Privilege Escalation</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_ACCESSCONTROL_Horizontal_ESC.png" alt=""><figcaption><p><strong>Horizontal Privilege Escalation</strong></p></figcaption></figure>
 
 <mark style="color:blue;">**Vertical Privileges Escalation**</mark>
 
 > An Attacker gain access to another user with the higher level of privileged/permissions.
 
-<figure><img src="../../.gitbook/assets/REDTEAM_ACCESSCONTROL_Vertical_Escalation.png" alt=""><figcaption><p><strong>Vertical Privilege Escalation.</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_ACCESSCONTROL_Vertical_Escalation.png" alt=""><figcaption><p><strong>Vertical Privilege Escalation.</strong></p></figcaption></figure>
 
 <mark style="color:blue;">**Multi Steps Process:**</mark>
 
 > An Attacker gain access from the ignored step of access controls.
 
-<figure><img src="../../.gitbook/assets/REDTEAM_Access_control_multi_steps.png" alt=""><figcaption><p><strong>Multi Steps Process</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_Access_control_multi_steps.png" alt=""><figcaption><p><strong>Multi Steps Process</strong></p></figcaption></figure>
 
 
 

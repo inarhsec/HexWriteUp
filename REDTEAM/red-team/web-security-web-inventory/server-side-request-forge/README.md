@@ -5,7 +5,7 @@
 > * An attacker tricks a web application into making requests to internal servers or external servers and exploit that server&#x20;
 > * An attacker tricks the web application without validation the user supplied input this allow the attacker to cause the server into making network connection on behalf on attacker&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### TYPES
 
