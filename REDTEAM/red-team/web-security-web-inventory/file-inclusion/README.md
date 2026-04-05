@@ -185,6 +185,6 @@ Defense Against insecure File Path
 
 ## MindMap
 
-{% file src="../../.gitbook/assets/File Inclusion.pdf" %}
+{% file src="../../../.gitbook/assets/File Inclusion.pdf" %}
 Insecure File Inclusion
 {% endfile %}

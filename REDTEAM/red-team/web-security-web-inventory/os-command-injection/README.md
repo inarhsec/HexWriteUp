@@ -70,7 +70,7 @@ weather.sh --city=mumbai&&ls
 >
 > The output the attacker knows this is vulnerably to OS Command Injection which lead to revershell of the web application using revsershell.com
 
-<figure><img src="../../.gitbook/assets/OS_Command_injection.drawio.png" alt=""><figcaption><p>OS Command Injection</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/OS_Command_injection.drawio.png" alt=""><figcaption><p>OS Command Injection</p></figcaption></figure>
 
 ### Types of Command Injection
 
@@ -229,6 +229,6 @@ Defense in Dept
 
 ## MindMap
 
-{% file src="../../.gitbook/assets/OS Command Injection.pdf" %}
+{% file src="../../../.gitbook/assets/OS Command Injection.pdf" %}
 OS Command Injection MindMap
 {% endfile %}

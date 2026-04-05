@@ -8,7 +8,7 @@ description: "The vulnerable web application has upload feature which the attack
 
 > The web application file upload feature doesn't validate the file properly and attacker use this to execute malicious code.
 
-<figure><img src="../../.gitbook/assets/REDTEAM_WEB_fileupload.drawio.png" alt=""><figcaption><p>File Upload</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/REDTEAM_WEB_fileupload.drawio.png" alt=""><figcaption><p>File Upload</p></figcaption></figure>
 
 ### Conditions
 
@@ -293,6 +293,6 @@ Walk through the web application to understand the behind logic.
 
 ## MindMap
 
-{% file src="../../.gitbook/assets/File Upload.pdf" %}
+{% file src="../../../.gitbook/assets/File Upload.pdf" %}
 Insecure File Upload
 {% endfile %}
