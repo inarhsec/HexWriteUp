@@ -17,6 +17,7 @@
 * [11. Wireless 802.11](11.-wireless-802.11/README.md)
   * [Wireless TroubleShooting](11.-wireless-802.11/wireless-troubleshooting/README.md)
     * [AP Commands](11.-wireless-802.11/wireless-troubleshooting/ap-commands.md)
+  * [EKAHUA WIFI PLANNING](11.-wireless-802.11/ekahua-wifi-planning.md)
 * [12. CLOUD](12.-cloud.md)
 * [13. Network Security Application](13.-network-security-application.md)
 * [RackAssessments](rackassessments.md)
