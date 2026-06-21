@@ -24,3 +24,4 @@
 * [Migration Reports](migration-reports/README.md)
   * [Nexus\_vPC\_Config\_v2](migration-reports/nexus_vpc_config_v2.md)
   * [Netmagic\_CoreSwitch\_Migration\_Assessment Updated](migration-reports/netmagic_coreswitch_migration_assessment-updated.md)
+  * [Indian Navy INS IMPHAL](migration-reports/indian-navy-ins-imphal.md)
