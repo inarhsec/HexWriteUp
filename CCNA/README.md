@@ -25,7 +25,7 @@ layout:
     visible: true
 ---
 
-# CCNA Initiated
+# CCNA Initiatedw
 
 ## whoami
 
@@ -55,6 +55,6 @@ layout:
 
 ### Documents
 
-{% file src=".gitbook/assets/HR CCNA 200-301 v0.1.pdf" %}
+{% file src=".gitbook/assets/HR CCNA 200-301 v0.1_protected.docx" %}
 
-{% file src=".gitbook/assets/HR CCNA 200-301 v0.1.docx" %}
+{% file src=".gitbook/assets/HR CCNA 200-301 v0.1 (1).pdf" %}
