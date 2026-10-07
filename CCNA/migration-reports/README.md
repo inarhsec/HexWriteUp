@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Migration Reports
 
 
