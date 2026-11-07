@@ -1,5 +1,8 @@
 ---
-description: The Cisco Certified Network Associate (CCNA) 200-301
+description: >-
+  Structured CCNA 200-301 learning notes, networking fundamentals, switching,
+  routing, wireless, cloud, network security, and practical infrastructure
+  references.
 cover: .gitbook/assets/CCNA Cover.jpeg
 coverY: 0
 layout:
@@ -7,6 +10,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -23,35 +27,42 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# CCNA Initiatedw
+# CCNA 200-301 Study & Reference Hub
 
-## whoami
+Welcome to this knowledge base. It brings together networking concepts, configuration references, troubleshooting notes, and practical infrastructure documentation.
+
+## Learning roadmap
+
+Follow the sections in sequence for a structured path through the core networking topics. Use the practical reports and command references alongside the foundational notes.
+
+1. [Networking Fundamentals](networking-fundamentals/) — hardware, topologies, cabling, IP addressing, subnetting, OSI, and protocols.
+2. [Switching Technologies](switching-technologies/) — Ethernet switching, Layer 2 security, hardening, and switch references.
+3. [Routing & Network Services](routing-and-network-services/) — routing, ACLs, NAT, NTP, SNMP, VTY access, and device administration.
+4. [Wireless Networking](wireless-networking/) — IEEE 802.11, troubleshooting, access point commands, and Wi-Fi planning.
+5. [Cloud & Network Security](cloud-and-network-security/) — cloud fundamentals and network security applications.
+6. [Infrastructure Assessments & Migration](infrastructure-assessments-and-migration/) — rack assessments, migration documentation, and implementation references.
+
+## About this knowledge base
 
 {% hint style="info" %}
-**Welcome! I am a Security Engineer working in the field of Security. With a passion for all things related to the industry, I created this GITBOOK as a way to share the information and insights I have gained throughout my career. I hope it serves as a helpful resource for others in the field and as a central for the references I frequently use.**
-
-**`I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. Thank you for visiting my website.`**
+This GitBook is a personal learning and technical reference space. It collects information and insights from networking and security work to support continued learning and knowledge sharing.
 {% endhint %}
 
 ## Disclaimer
 
 {% hint style="danger" %}
-**Please note that the opinions expressed on this Gitbook and my connected social media profiles are solely my own and do not represent the views or positions of my employer. Mentions of specific assets should not be interpreted as endorsements of any position, product, or service. Additionally, this website does not generate any income for me. `I would greatly appreciate receiving information about any errors noticed by the readers so that they may be corrected as soon as possible in the future`.**&#x20;
-
-**Contact me through any social media platform. However, if you would like to support my efforts, you can send me a message to buy me a coffee. Thank you for your understanding.**
+The opinions and material in this knowledge base are personal and do not represent the views or positions of any employer. References to specific assets, products, or services are for technical and educational context and should not be interpreted as endorsements. Please report errors or outdated information so they can be reviewed and corrected.
 {% endhint %}
 
+## Resources
 
+### External resources
 
-## <mark style="color:blue;">Resouces</mark>
-
-### Mega.io
-
-{% hint style="info" %}
-[https://mega.nz/folder/NL1RkZDA](https://mega.nz/folder/NL1RkZDA)
-{% endhint %}
+* [Mega resource folder](https://mega.nz/folder/NL1RkZDA)
 
 ### Documents
 
