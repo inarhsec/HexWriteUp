@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CCNA 200-301 Study & Reference Hub](README.md)
+* [CCNA 200-301](README.md)
 * [Networking Fundamentals](networking-fundamentals/README.md)
   * [Networking Hardware Basics](networking-fundamentals/networking-hardware-basics.md)
   * [Network Topologies & Components](networking-fundamentals/network-topologies-and-components.md)

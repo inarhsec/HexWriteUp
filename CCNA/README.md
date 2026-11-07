@@ -31,9 +31,19 @@ layout:
     visible: true
 ---
 
-# CCNA 200-301 Study & Reference Hub
+# CCNA 200-301
 
 Welcome to this knowledge base. It brings together networking concepts, configuration references, troubleshooting notes, and practical infrastructure documentation.
+
+Whoami
+
+
+{% hint style="info" %}
+Welcome! I am a Security Engineer working in the field of Security. With a passion for all things related to the industry, I created this GITBOOK as a way to share the information and insights I have gained throughout my career. I hope it serves as a helpful resource for others in the field and as a central for the references I frequently use.\
+I welcome any questions, comments, or suggestions you may have. I am always open to constructive criticism and appreciate the opportunity to improve and grow in my career. Thank you for visiting my website.
+{% endhint %}
+
+
 
 ## Learning roadmap
 
