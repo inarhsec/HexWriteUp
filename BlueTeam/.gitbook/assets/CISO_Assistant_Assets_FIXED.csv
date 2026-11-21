@@ -1,0 +1,414 @@
+name,description,ip,source_sheet
+FSNAS1611,,,Netmagic devices PCI
+FSNAS1612,,,Netmagic devices PCI
+FSNAS1613,,,Netmagic devices PCI
+FSNAS1615,,,Netmagic devices PCI
+General HSM,,,Netmagic devices PCI
+Payment HSM 02,,,Netmagic devices PCI
+Payment HSM 01,,,Netmagic devices PCI
+Payment HSM 03,,,Netmagic devices PCI
+FSSANSWT1142,,,Netmagic devices PCI
+FSSANSWT1141,,,Netmagic devices PCI
+FSFRW01,,,Netmagic devices PCI
+FSFRW02,,,Netmagic devices PCI
+FSRTR0902.fsnet.local,,,Netmagic devices PCI
+FSRTR0901.fsnet.local,,,Netmagic devices PCI
+FS10SW0830,,,Netmagic devices PCI
+FSSTRG1151,,,Netmagic devices PCI
+FSDB1215.FSNET.LOCAL,,,Netmagic devices PCI
+FSDB1214.FSNET.LOCAL,,,Netmagic devices PCI
+FSDB1213.FSNET.LOCAL,,,Netmagic devices PCI
+FSDB1212.FSNET.LOCAL,,,Netmagic devices PCI
+FSDB1211.FSNET.LOCAL,,,Netmagic devices PCI
+FSNETEXi1115,,,Netmagic devices PCI
+FSNETEXi1114,,,Netmagic devices PCI
+FSNETEXi1113,,,Netmagic devices PCI
+FSNETEXi1112,,,Netmagic devices PCI
+FSNETEXi1111,,,Netmagic devices PCI
+Databases,,,Netmagic devices PCI
+Nutanix Hosts,,,Netmagic devices PCI
+FSNETNTX1121,,,Netmagic devices PCI
+FSNETNTX1122,,,Netmagic devices PCI
+FSNETNTX1123,,,Netmagic devices PCI
+FSNETNTX1124,,,Netmagic devices PCI
+FSNETNTX1125,,,Netmagic devices PCI
+Applications,,,Netmagic devices PCI
+Ancillaries,,,Netmagic devices PCI
+ATM Application Servers,,,Netmagic devices PCI
+BBPS Application Servers,,,Netmagic devices PCI
+IMPS Application Servers,,,Netmagic devices PCI
+UPI Application Servers,,,Netmagic devices PCI
+Individual Application Portals,,,Netmagic devices PCI
+Card Management Portal,,,Netmagic devices PCI
+Ecommerce Servers,,,Netmagic devices PCI
+General HSM 01,HSM Box Gemalto - Pin Generator Hardware Security Module,172.26.14.11,Yotta Devices PCI
+Payment HSM 01,HSM Box Safenet Luna - Xaction Hardware Security Module,172.26.14.12,Yotta Devices PCI
+Payment HSM 02,HSM Box Safenet Luna - Xaction Hardware Security Module,172.26.14.13,Yotta Devices PCI
+General HSM 02,HSM Box Gemalto - Pin Generator Hardware Security Module,172.26.14.14,Yotta Devices PCI
+FYSANSWT1142,Fiber Switch - SAN Switch,172.26.11.42,Yotta Devices PCI
+FYSANSWT1141,Fiber Switch - SAN Switch,172.26.11.41,Yotta Devices PCI
+FYFRW01,Primary Firewall PA 1410,172.26.10.28,Yotta Devices PCI
+FYFRW02,Secondary Firewall PA 1410,172.26.10.29,Yotta Devices PCI
+FYRTR0902,Second Router - Cisco 4331 01,10.26.9.2,Yotta Devices PCI
+FYRTR0901,First router - Cisco 4331 02,10.26.9.1,Yotta Devices PCI
+FY10SW0830,Netgear Switch 4300 x2 - 10G Switch,172.26.8.30,Yotta Devices PCI
+FY10SW0840,Cisco 550 Switch 2 Units,172.27.8.40,Yotta Devices PCI
+FYSTRG1147,IBM Storvise 5000 - Storage,172.26.11.47,Yotta Devices PCI
+FYSTRG1146,IBM Storvise 5000 - Storage,172.26.11.46,Yotta Devices PCI
+FYDB1211,Database Server 01 Lenovo Host,172.26.12.11,Yotta Devices PCI
+FYDB1212,Database Server 02 - Lenovo Host,172.26.12.12,Yotta Devices PCI
+FYDB1215,Database Server 03 - lenovo Host,172.26.12.13,Yotta Devices PCI
+FSYOTESXi1115,ESXi Host 05 - Lenovo,172.26.11.15,Yotta Devices PCI
+FSYOTESXi1114,ESXi Host 04 - Lenovo,172.26.11.14,Yotta Devices PCI
+FSYOTESXi1113,ESXi Host 03 - Lenovo,172.26.11.13,Yotta Devices PCI
+FSYOTESXi1112,ESXi Host 02 - Lenovo,172.26.11.12,Yotta Devices PCI
+FSYOTESXi1111,ESXi Host 01 - Lenovo,172.26.11.11,Yotta Devices PCI
+FSNAS1611,Nas Device,172.26.16.11,Yotta Devices PCI
+FSNAS1612,Nas Device,172.26.16.12,Yotta Devices PCI
+Databases,Central Database,172.26.12.18/19,Yotta Devices PCI
+FINNTX1121,Nutanix Host 01,172.26.10.19,Yotta Devices PCI
+FINNTX1122,Nutanix Host 02,172.26.10.20,Yotta Devices PCI
+FINNTX1123,Nutanix Host 03,172.26.10.21,Yotta Devices PCI
+FINNTX1124,Nutanix Host 04,172.26.10.22,Yotta Devices PCI
+FINNTX1125,Nutanix Host 05,172.26.10.23,Yotta Devices PCI
+FINNTX1126,Nutanix Host 06,172.26.10.24,Yotta Devices PCI
+FINNTX1127,Nutanix Host 07,172.26.10.25,Yotta Devices PCI
+FINNTX1129,Nutanix Host 08,172.26.10.26,Yotta Devices PCI
+Application,,,Yotta Devices PCI
+Ancillaries,FYBDC/PDC/OPMR,172.26.13.XX/15.XX,Yotta Devices PCI
+ATM Application Servers,FYATM-XXXXX,172.26.20.XX,Yotta Devices PCI
+BBPS Application Servers,FYBBPS-XXXXX,172.26.30.XX,Yotta Devices PCI
+IMPS Application Servers,FYIMPS-XXXXX,172.26.24.XX,Yotta Devices PCI
+UPI Application Servers,FYUPI-XXXXX,172.26.27.XX,Yotta Devices PCI
+Individual Application Portals,FYWB-XXXXX,172.26.2X/3X.XX,Yotta Devices PCI
+Card Management Portal,FYCRDMGT-XXXXX,172.26.21.XX,Yotta Devices PCI
+Ecommerce Servers,FYECOM-XXXXX,172.26.22.XX,Yotta Devices PCI
+Name of Asset,,,Nxtgen Devices PCI
+FNBRTR0901,,,Nxtgen Devices PCI
+FNBRTR0902,,,Nxtgen Devices PCI
+FNBFRW01,,,Nxtgen Devices PCI
+FNBFRW02,,,Nxtgen Devices PCI
+FNB1GSW01,,,Nxtgen Devices PCI
+FNB1GSW02,,,Nxtgen Devices PCI
+FSNXGNSW01,,,Nxtgen Devices PCI
+FSNXGNSW02,,,Nxtgen Devices PCI
+FNB1GSW05,,,Nxtgen Devices PCI
+FINNTX1121,,,Nxtgen Devices PCI
+FINNTX1122,,,Nxtgen Devices PCI
+FINNTX1123,,,Nxtgen Devices PCI
+FINNTX1124,,,Nxtgen Devices PCI
+ECommerce Servers,,,Nxtgen Devices PCI
+FSNXATM20100,,,Netmagic Servers
+GD7M9W2,,,Netmagic Servers
+JD7M9W2,,,Netmagic Servers
+FD7M9W2,,,Netmagic Servers
+1F7M9W2,,,Netmagic Servers
+HD7M9W2,,,Netmagic Servers
+GC7M9W2,,,Netmagic Servers
+BD7M9W2,,,Netmagic Servers
+CD7M9W2,,,Netmagic Servers
+DD7M9W2,,,Netmagic Servers
+9D7M9W2,,,Netmagic Servers
+Central DB,,,Netmagic Servers
+FSNXATM20101,,,Netmagic Servers
+FSNXATM20102,,,Netmagic Servers
+FSNXATM20103,,,Netmagic Servers
+FSNXATM20104,,,Netmagic Servers
+FSNXATM20105,,,Netmagic Servers
+FSNXATM20106,,,Netmagic Servers
+FSNXAtm20107,,,Netmagic Servers
+FSNXAtm20108,,,Netmagic Servers
+FSNXAtm20109,,,Netmagic Servers
+FSNXAtm2011,,,Netmagic Servers
+FSNXATM20111,,,Netmagic Servers
+FSNXATM20112,,,Netmagic Servers
+FSNXATM20118-DR,,,Netmagic Servers
+FSNXAtm2012,,,Netmagic Servers
+FSNXATM20123-DR,,,Netmagic Servers
+FSNXATM20127-DR,,,Netmagic Servers
+FSNXATM20128,,,Netmagic Servers
+FSNXAtm2013,,,Netmagic Servers
+FSNXATM20130,,,Netmagic Servers
+FSNXAtm20132-DR,,,Netmagic Servers
+FSNXATM20134,,,Netmagic Servers
+FSNXATM20136,,,Netmagic Servers
+FSNXATM20137,,,Netmagic Servers
+FSNXATM20138,,,Netmagic Servers
+FSNXATM20139,,,Netmagic Servers
+FSNXAtm2014,,,Netmagic Servers
+FSNXATM20140,,,Netmagic Servers
+FSNXATM20141,,,Netmagic Servers
+FSNXATM20142,,,Netmagic Servers
+FSNXATM20143,,,Netmagic Servers
+FSNXATM20144,,,Netmagic Servers
+FSNXATM20145,,,Netmagic Servers
+FSNXATM20146,,,Netmagic Servers
+FSNXATM20147,,,Netmagic Servers
+FSNXATM20148,,,Netmagic Servers
+FSNXATM20149,,,Netmagic Servers
+FSNXAtm2015,,,Netmagic Servers
+FSNXATM20150,,,Netmagic Servers
+FSNXATM20152,,,Netmagic Servers
+FSNXATM20153,,,Netmagic Servers
+FSNXATM20154,,,Netmagic Servers
+FSNXATM20155,,,Netmagic Servers
+FSNXATM20156,,,Netmagic Servers
+FSNXATM20157,,,Netmagic Servers
+FSNXATM20159,,,Netmagic Servers
+FSNXAtm2016,,,Netmagic Servers
+FSNXAtm20160,,,Netmagic Servers
+FSNXATM20161,,,Netmagic Servers
+FSNXATM20162,,,Netmagic Servers
+FSNXATM20163,,,Netmagic Servers
+FSNXATM20166,,,Netmagic Servers
+FSNXATM20167,,,Netmagic Servers
+FSNXATM20168,,,Netmagic Servers
+FSNXAtm2017,,,Netmagic Servers
+FSNXATM20170,,,Netmagic Servers
+FSNXATM20171,,,Netmagic Servers
+FSNXATM20172,,,Netmagic Servers
+FSNXATM20173,,,Netmagic Servers
+FSNXATM20174,,,Netmagic Servers
+FSNXATM20175,,,Netmagic Servers
+FSNXATM20176,,,Netmagic Servers
+FSNXAtm2018,,,Netmagic Servers
+FSNXAtm2019,,,Netmagic Servers
+FSNXAtm2020,,,Netmagic Servers
+FSNXAtm2021,,,Netmagic Servers
+FSNXAtm2022,,,Netmagic Servers
+FSNXAtm2023,,,Netmagic Servers
+FSNXAtm2024,,,Netmagic Servers
+FSNXAtm2025,,,Netmagic Servers
+FSNXAtm2027,,,Netmagic Servers
+FSNXAtm2028,,,Netmagic Servers
+FSNXAtm2029,,,Netmagic Servers
+FSNXAtm2030,,,Netmagic Servers
+FSNXAtm2031,,,Netmagic Servers
+FSNXAtm2032,,,Netmagic Servers
+FSNXAtm2033,,,Netmagic Servers
+FSNXAtm2034,,,Netmagic Servers
+FSNXAtm2035,,,Netmagic Servers
+FSNXAtm2036,,,Netmagic Servers
+FSNXAtm2037,,,Netmagic Servers
+FSNXAtm2038,,,Netmagic Servers
+FSNXAtm2039,,,Netmagic Servers
+FSNXAtm2040,,,Netmagic Servers
+FSNXAtm2041,,,Netmagic Servers
+FSNXAtm2042,,,Netmagic Servers
+FSNXATM2043,,,Netmagic Servers
+FSNXAtm2044,,,Netmagic Servers
+FSNXAtm2045,,,Netmagic Servers
+FSNXAtm2046,,,Netmagic Servers
+FSNXAtm2047,,,Netmagic Servers
+FSNXAtm2048,,,Netmagic Servers
+FSNXAtm2049,,,Netmagic Servers
+FSNXAtm2050,,,Netmagic Servers
+FSNXAtm2051,,,Netmagic Servers
+FSNXAtm2052,,,Netmagic Servers
+FSNXAtm2053,,,Netmagic Servers
+FSNXAtm2054,,,Netmagic Servers
+FSNXAtm2055,,,Netmagic Servers
+FSNXAtm2056,,,Netmagic Servers
+FSNXAtm2057,,,Netmagic Servers
+FSNXAtm2058,,,Netmagic Servers
+FSNXAtm2060,,,Netmagic Servers
+FSNXAtm2061,,,Netmagic Servers
+FSNXAtm2062,,,Netmagic Servers
+FSNXAtm2063,,,Netmagic Servers
+FSNXAtm2064,,,Netmagic Servers
+FSNXAtm2065,,,Netmagic Servers
+FSNXAtm2066,,,Netmagic Servers
+FSNXAtm2067,,,Netmagic Servers
+FSNXAtm2068,,,Netmagic Servers
+FSNXAtm2069,,,Netmagic Servers
+FSNXAtm2070,,,Netmagic Servers
+FSNXAtm2071,,,Netmagic Servers
+FSNXAtm2072,,,Netmagic Servers
+FSNXAtm2073,,,Netmagic Servers
+FSNXAtm2074,,,Netmagic Servers
+FSNXAtm2075,,,Netmagic Servers
+FSNXAtm2076,,,Netmagic Servers
+FSNXAtm2077,,,Netmagic Servers
+FSNXAtm2078,,,Netmagic Servers
+FSNXAtm2079,,,Netmagic Servers
+FSNXAtm2080,,,Netmagic Servers
+FSNXAtm2081,,,Netmagic Servers
+FSNXAtm2082,,,Netmagic Servers
+FSNXAtm2083,,,Netmagic Servers
+FSNXAtm2084,,,Netmagic Servers
+FSNXAtm2085,,,Netmagic Servers
+FSNXAtm2086,,,Netmagic Servers
+FSNXAtm2087,,,Netmagic Servers
+FSNXAtm2088,,,Netmagic Servers
+FSNXAtm2089,,,Netmagic Servers
+FSNXAtm2090,,,Netmagic Servers
+FSNXAtm2091,,,Netmagic Servers
+FSNXAtm2092,,,Netmagic Servers
+FSNXATM2093,,,Netmagic Servers
+FSNXAtm2094,,,Netmagic Servers
+FSNXAtm2095,,,Netmagic Servers
+FSNXAtm2096,,,Netmagic Servers
+FSNXAtm2097,,,Netmagic Servers
+FSNXAtm2098,,,Netmagic Servers
+FSNXAtm2099,,,Netmagic Servers
+FINNTX1125,,,Yotta Servers
+FINNTX1126,,,Yotta Servers
+FINNTX1127,,,Yotta Servers
+FINNTX1128,,,Yotta Servers
+FSNXATM20152-DR,,,Yotta Servers
+FYNXATM20100-DR,,,Yotta Servers
+FYNXATM20101-DR,,,Yotta Servers
+FYNXATM20102-DR,,,Yotta Servers
+FYNXATM20103-DR,,,Yotta Servers
+FYNXATM20104-DR,,,Yotta Servers
+FYNXATM20105-DR,,,Yotta Servers
+FYNXATM20106-DR,,,Yotta Servers
+FYNXATM20107-DR,,,Yotta Servers
+FYNXATM20108-DR,,,Yotta Servers
+FYNXATM20109-DR,,,Yotta Servers
+FYNXATM2011-DR,,,Yotta Servers
+FYNXATM20111-DR,,,Yotta Servers
+FYNXATM20112-DR,,,Yotta Servers
+FYNXATM20116,,,Yotta Servers
+FYNXAtm20117,,,Yotta Servers
+FYNXATM20118,,,Yotta Servers
+FYNXAtm20119,,,Yotta Servers
+FYNXAtm2012-DR,,,Yotta Servers
+FYNXAtm20120,,,Yotta Servers
+FYNXAtm20121,,,Yotta Servers
+FYNXAtm20122,,,Yotta Servers
+FYNXAtm20123,,,Yotta Servers
+FYNXAtm20124,,,Yotta Servers
+FYNXAtm20125,,,Yotta Servers
+FYNXAtm20126,,,Yotta Servers
+FYNXAtm20127,,,Yotta Servers
+FYNXAtm20128-DR,,,Yotta Servers
+FYNXAtm20129,,,Yotta Servers
+FYNXATM2013-DR,,,Yotta Servers
+FYNXAtm20130,,,Yotta Servers
+FYNXATM20131,,,Yotta Servers
+FYNXATM20132,,,Yotta Servers
+FYNXATM20133-DR,,,Yotta Servers
+FYNXATM20134-DR,,,Yotta Servers
+FYNXATM20135,,,Yotta Servers
+FYNXATM20136-DR,,,Yotta Servers
+FYNXATM20137-DR,,,Yotta Servers
+FYNXATM20138-DR,,,Yotta Servers
+FYNXATM20139-DR,,,Yotta Servers
+FYNXATM2014-DR,,,Yotta Servers
+FYNXATM20140-DR,,,Yotta Servers
+FYNXATM20141-DR,,,Yotta Servers
+FYNXATM20142-DR,,,Yotta Servers
+FYNXATM20143-DR,,,Yotta Servers
+FYNXATM20145-DR,,,Yotta Servers
+FYNXATM20146-DR,,,Yotta Servers
+FYNXATM20147-DR,,,Yotta Servers
+FYNXATM20148-DR,,,Yotta Servers
+FYNXATM20149-DR,,,Yotta Servers
+FYNXAtm2015-DR,,,Yotta Servers
+FYNXATM20150-DR,,,Yotta Servers
+FYNXATM20151,,,Yotta Servers
+FYNXATM20155,,,Yotta Servers
+FYNXATM20156-DR,,,Yotta Servers
+FYNXATM20157,,,Yotta Servers
+FYNXAtm2016-DR,,,Yotta Servers
+FYNXATM20160-DR,,,Yotta Servers
+FYNXAtm20161,,,Yotta Servers
+FYNXAtm20162,,,Yotta Servers
+FYNXATM20164,,,Yotta Servers
+FYNXATM20165,,,Yotta Servers
+FYNXATM20166,,,Yotta Servers
+FYNXAtm20167,,,Yotta Servers
+FYNXAtm20168,,,Yotta Servers
+FYNXATM20169_OLD,,,Yotta Servers
+FYNXATM2017-DR,,,Yotta Servers
+FYNXATM20171-DR,,,Yotta Servers
+FYNXATM20172-DR,,,Yotta Servers
+FYNXATM20173-DR,,,Yotta Servers
+FYNXATM20174-DR,,,Yotta Servers
+FYNXATM20175-DR,,,Yotta Servers
+FYNXATM20176-DR,,,Yotta Servers
+FYNXAtm2018-DR,,,Yotta Servers
+FYNXAtm2019-DR,,,Yotta Servers
+FYNXAtm2020-DR,,,Yotta Servers
+FYNXATM2021-DR,,,Yotta Servers
+FYNXATM2022-DR,,,Yotta Servers
+FYNXAtm20220,,,Yotta Servers
+FYNXATM2023-DR,,,Yotta Servers
+FYNXATM2024-DR,,,Yotta Servers
+FYNXATM2025-DR,,,Yotta Servers
+FYNXATM2026-DR,,,Yotta Servers
+FYNXATM2027-DR,,,Yotta Servers
+FYNXATM2028-DR,,,Yotta Servers
+FYNXATM2029-DR,,,Yotta Servers
+FYNXATM2030-DR,,,Yotta Servers
+FYNXATM2031-DR,,,Yotta Servers
+FYNXATM2032-DR,,,Yotta Servers
+FYNXATM2033-DR,,,Yotta Servers
+FYNXATM2034-DR,,,Yotta Servers
+FYNXATM2035-DR,,,Yotta Servers
+FYNXATM2036-DR,,,Yotta Servers
+FYNXATM2037-DR,,,Yotta Servers
+FYNXATM2038-DR,,,Yotta Servers
+FYNXATM2039-DR,,,Yotta Servers
+FYNXATM2040-DR,,,Yotta Servers
+FYNXATM2041-DR,,,Yotta Servers
+FYNXATM2042-DR,,,Yotta Servers
+FYNXATM2043-DR,,,Yotta Servers
+FYNXATM2044-DR,,,Yotta Servers
+FYNXATM2045-DR,,,Yotta Servers
+FYNXAtm2046-DR,,,Yotta Servers
+FYNXAtm2047-DR,,,Yotta Servers
+FYNXAtm2048-DR,,,Yotta Servers
+FYNXAtm2049-DR,,,Yotta Servers
+FYNXAtm2050-DR,,,Yotta Servers
+FYNXAtm2051-DR,,,Yotta Servers
+FYNXAtm2052-DR,,,Yotta Servers
+FYNXAtm2053-DR,,,Yotta Servers
+FYNXAtm2054-DR,,,Yotta Servers
+FYNXATM2055-DR,,,Yotta Servers
+FYNXAtm2056-DR,,,Yotta Servers
+FYNXAtm2057-DR,,,Yotta Servers
+FYNXATM2058-DR,,,Yotta Servers
+FYNXAtm2059-DR,,,Yotta Servers
+FYNXAtm2060-DR,,,Yotta Servers
+FYNXAtm2061-DR,,,Yotta Servers
+FYNXAtm2062-DR,,,Yotta Servers
+FYNXAtm2063-DR,,,Yotta Servers
+FYNXAtm2064-DR,,,Yotta Servers
+FYNXAtm2065-DR,,,Yotta Servers
+FYNXAtm2066-DR,,,Yotta Servers
+FYNXAtm2067-DR,,,Yotta Servers
+FYNXAtm2068-DR,,,Yotta Servers
+FYNXAtm2069-DR,,,Yotta Servers
+FYNXAtm2070-DR,,,Yotta Servers
+FYNXAtm2071-DR,,,Yotta Servers
+FYNXAtm2072-DR,,,Yotta Servers
+FYNXAtm2073-DR,,,Yotta Servers
+FYNXAtm2074-DR,,,Yotta Servers
+FYNXAtm2075-DR,,,Yotta Servers
+FYNXAtm2076-DR,,,Yotta Servers
+FYNXAtm2077-DR,,,Yotta Servers
+FYNXAtm2078-DR,,,Yotta Servers
+FYNXAtm2079-DR,,,Yotta Servers
+FYNXAtm2080-DR,,,Yotta Servers
+FYNXATM2081-DR,,,Yotta Servers
+FYNXATM2082-DR,,,Yotta Servers
+FYNXATM2083-DR,,,Yotta Servers
+FYNXATM2084-DR,,,Yotta Servers
+FYNXATM2085-DR,,,Yotta Servers
+FYNXATM2086-DR,,,Yotta Servers
+FYNXATM2087-DR,,,Yotta Servers
+FYNXATM2088-DR,,,Yotta Servers
+FYNXATM2089-DR,,,Yotta Servers
+FYNXATM2090-DR,,,Yotta Servers
+FYNXATM2091-DR,,,Yotta Servers
+FYNXATM2092-DR,,,Yotta Servers
+FYNXATM2093-DR,,,Yotta Servers
+FYNXATM2094-DR,,,Yotta Servers
+FYNXATM2095-DR,,,Yotta Servers
+FYNXAtm2096-DR,,,Yotta Servers
+FYNXATM2097-DR,,,Yotta Servers
+FYNXATM2098-DR,,,Yotta Servers
+FYNXATM2099-DR,,,Yotta Servers
+ATMAUDIT-13,,,NextGen Servers
